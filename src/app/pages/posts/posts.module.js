@@ -1,6 +1,6 @@
 /**
 @author: KGR Vamsi
-created on 30-09-2016
+created on 02-10-2016
 **/
 
 (function () {
@@ -18,7 +18,7 @@ created on 30-09-2016
           title: 'Posts',
           sidebarMeta: {
             icon: 'ion-compose',
-            order: 600,
+            order: 300,
           },
         });
   }

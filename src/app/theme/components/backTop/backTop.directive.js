@@ -16,7 +16,7 @@
       controller: function () {
         $('#backTop').backTop({
           'position': 200,
-          'speed': 100
+          'speed': 150
         });
       }
     };
